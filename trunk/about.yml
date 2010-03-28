@@ -1,0 +1,7 @@
+author: Nathaniel Brown
+email: nshb@inimit.com
+homepage: http://routes.toolbawks.com
+summary: Toolbawks Routes handles all the route management for the various plugins
+description: Providing a slick interface for managing routes across various models.
+license: MIT
+version: 1.0.0
